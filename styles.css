@@ -1,17 +1,31 @@
 
 body{
-     background:green;
-     border:double 12px;
+     background:lime;
+     border:double 12px green;
     
 }
 h1{
     font-family: 'Anton', sans-serif;
     text-align: center;
+    color:blue;
 }
 h3{
     font-family: 'Oswald', sans-serif;
+    color:blue;
 }
 img{
     width:400px;
+    display:block;
+    Margin-left:auto;
+    margin-right:auto;
+}
+p{
+    font-family: 'Abel', sans-serif;
     text-align:center;
+    color:red;
+
+}
+li{
+    font-family: 'Abel', sans-serif;
+    color:red;
 }
